@@ -2,6 +2,7 @@
 title: "First_doc"
 format: html
 editor: visual
+bibliography: my_bib.bib
 ---
 
 ## Quarto
@@ -36,4 +37,10 @@ plot(cars)
 
 ```
 
-Mitt første plot er vist i
+Mitt første plot er vist i @fig-firstPlot
+
+```{r}
+
+```
+
+@wicham2019
